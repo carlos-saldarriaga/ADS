@@ -304,6 +304,9 @@ graph TD
 5. **Principio de Inversión de Dependencias (DIP)**:
    - Depender de abstracciones, no de implementaciones concretas
    - Ejemplo: `GestorCarritoImpl` depende de la interface `RepositorioCarritos`, no de una implementación específica
+  
+[Principios SOLID: Guía Práctica con Ejemplos de Código](https://github.com/carlos-saldarriaga/ADS/blob/main/SOLID.md)
+
 
 ### 6.3 Artefactos del Diseño
 
